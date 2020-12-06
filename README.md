@@ -1,3 +1,8 @@
+# 说明
+我对于一些最佳实践做了修改，目的是总结一套更适合自己的学习资料。
+---
+
+
 # TeachYourselfCS-CN
 
 [![](https://img.shields.io/github/license/keithnull/TeachYourselfCS-CN)](https://github.com/keithnull/TeachYourselfCS-CN/blob/master/LICENSE)
@@ -5,6 +10,7 @@
 [TeachYourselfCS](https://teachyourselfcs.com/) 的中文翻译。
 
 A Chinese translation of [TeachYourselfCS](https://teachyourselfcs.com/). 
+
 
 ## 导航 Navigation 
 
